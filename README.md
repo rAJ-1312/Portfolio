@@ -1,16 +1,26 @@
 # Portfolio
 
+
+
+<p align="center">
+  <a href="https://myportfolio-raj.netlify.app/" target="_blank"> <img align="center" src="images/project4.png?raw=true" alt="Portfolio" width="100%"> </a>
+</p>
+
+
+
 This is a simple portfolio website built using HTML, CSS, and JavaScript. It provides information about me and showcases my projects and skills.
 
 ## Table of Contents
 
 
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
+- [Portfolio](#portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Customization](#customization)
+  - [License](#license)
 
 ## Features
 
