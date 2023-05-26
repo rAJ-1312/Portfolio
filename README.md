@@ -13,14 +13,12 @@ This is a simple portfolio website built using HTML, CSS, and JavaScript. It pro
 ## Table of Contents
 
 
-- [Portfolio](#portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Customization](#customization)
-  - [License](#license)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [License](#license)
 
 ## Features
 
