@@ -76,3 +76,15 @@ const typed = new Typed('.multiple-text',{
     loop: true
 });
 
+
+
+// Pop up message 
+
+window.onload = function() {
+    var buttons = document.querySelectorAll('.btn');
+    for (var i = 1; i < buttons.length; i++) {
+      buttons[i].addEventListener('click', function() {
+        alert('Oops! This link is currently unavailable or broken.\nPlease navigate back to the homepage or contact me for further assistance. Thank you!');
+      });
+    }
+  };
