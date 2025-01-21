@@ -1,4 +1,5 @@
-# Portfolio
+# Portfolio [![Netlify Status](https://api.netlify.com/api/v1/badges/89d7ac36-adac-4ba7-acad-5626cd3a3b50/deploy-status)](https://app.netlify.com/sites/rj6009/deploys)
+
 
 
 
